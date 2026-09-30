@@ -32,40 +32,38 @@ Researching LLM interpretability and federated learning
 <th width="25%">AI / ML</th>
 <th width="25%">Backend</th>
 </tr>
+
 <tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" title="TypeScript"/>
-<br/>
-SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/mysql" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" title="React.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" title="Scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="44" title="OpenCV"/>
-<br/>
-Machine Learning<br/>
-Deep Learning<br/>
-Computer Vision<br/>
-Model Fine-Tuning<br/>
-Feature Engineering
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/pandas" width="42"/>
+<img src="https://cdn.simpleicons.org/numpy" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" title="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" title="FastAPI"/>
-<br/>
-RESTful API Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
 </td>
+
 </tr>
 </table>
 
@@ -78,85 +76,41 @@ RESTful API Development
 <th width="25%">Creative</th>
 <th width="25%">Tools & Platforms</th>
 </tr>
+
 <tr>
+
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" title="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" title="MySQL"/>
-<br/>
-MS SQL<br/>
-ChromaDB<br/><br/>
-Pandas · NumPy<br/>
-Data Cleaning<br/>
-Exploratory Data Analysis<br/>
-Predictive Analytics
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="42"/>
+<img src="https://cdn.simpleicons.org/chromadb" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge"/>
-<br/>
-LLM Applications<br/>
-Retrieval-Augmented Generation<br/>
-Prompt Engineering<br/>
-Semantic Search<br/>
-Object Detection<br/>
-Image Classification<br/>
-OCR<br/>
-License Plate Detection<br/>
-Image Quality Assessment
+<img src="https://cdn.simpleicons.org/langchain" width="42"/>
+<img src="https://cdn.simpleicons.org/ollama" width="42"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="42"/>
+<img src="https://cdn.simpleicons.org/opencv" width="42"/>
+<img src="https://cdn.simpleicons.org/tesseract" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-<br/>
-UI/UX Design
+<img src="https://cdn.simpleicons.org/figma" width="42"/>
+<img src="https://cdn.simpleicons.org/adobe" width="42"/>
 </td>
+
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="44" title="Google Colab"/>
-<br/>
-Roboflow<br/>
-CVAT<br/>
-Docker<br/>
-CI/CD
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/googlecolab" width="42"/>
+<img src="https://cdn.simpleicons.org/roboflow" width="42"/>
+<img src="https://cdn.simpleicons.org/cvat" width="42"/>
 </td>
-</tr>
-</table>
 
-</div>
-
----
-
-## Practices & Skills
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**Software Development Life Cycle (SDLC)**  
-**Agile / Scrum**  
-**Object-Oriented Programming**  
-**Microservices**  
-**RESTful API Development**
-
-</td>
-<td align="center">
-
-**Data Structures & Algorithms**  
-**Multi-threaded Programming**  
-**Unit Testing**  
-**Secure Coding**  
-**Debugging**  
-**GUI Development**
-
-</td>
 </tr>
 </table>
 
@@ -171,7 +125,9 @@ CI/CD
 <a href="https://www.linkedin.com/in/ishita-chaurasia-3922a230b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:chaurasiaishi@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
